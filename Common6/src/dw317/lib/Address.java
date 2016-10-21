@@ -1,7 +1,7 @@
 /**
  * Defines an Address type
  */
-//Git hub test
+
 package dw317.lib;
 
 import java.util.Optional;
